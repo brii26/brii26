@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Ricardo Tamin</h1>
-<h3 align="center">Aspiring Software Engineer from Indonesia | Computer Science Student at Institut Teknologi Bandung (ITB)</h3>
+<h3 align="center">Aspiring Software Engineer from Indonesia | </h3>
+<h3 align="center">Computer Science Student at Institut Teknologi Bandung (ITB)</h3>
 
 
 <h3 align="left">Visit my portfolio app:</h3>
