@@ -58,7 +58,7 @@ Computer Science student at **Bandung Institute of Technology (ITB)**. Building 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianricardotamin@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brianricardo26/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/brii26/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brianricardo.dev)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brianricardo.dev)
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=128&color=0:000000,100:333333&section=footer" />
 </div>
