@@ -62,3 +62,4 @@ Computer Science student at **Bandung Institute of Technology (ITB)**. Building 
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=128&color=0:000000,100:333333&section=footer" />
 </div>
+ 
