@@ -17,7 +17,7 @@
 ## About
 
 <p align="justify">
-Software Engineer with <b>full-stack internship experience</b> developing software for <b>financial institutions</b>, passionate about building <b>scalable applications</b> and <b>distributed systems</b> across the stack.
+I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Technology</b>. Software Engineer with <b>full-stack internship experience</b> developing software for <b>financial institutions</b>, passionate about building <b>scalable applications</b> and <b>distributed systems</b> across the stack.
 </p>
 
 <br>
@@ -105,7 +105,7 @@ Software Engineer with <b>full-stack internship experience</b> developing softwa
 <br>
 
 <p align="justify">
-Open for internship opportunities in <b><u>Q1-Q2 2027</u></b>, and full-time opportunities from <b><u>July 2027</u></b> onward. Feel free to <a href="https://brianricardo.dev/#contact">reach out</a> on any platform, I'll get back to you whenever I can.
+Open for <b><u>internship opportunities</u></b> in <b><u>Q1-Q2 2027</u></b>, and <b><u>full-time opportunities</u></b> from <b><u>July 2027</u></b> onward. Feel free to <a href="https://brianricardo.dev/#contact">reach out</a> on any platform, I'll get back to you whenever I can.
 </p>
 
 <br>
