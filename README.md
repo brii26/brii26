@@ -100,13 +100,13 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="12" width="1" alt=""/>
+<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="8" width="1" alt=""/>
 
 <p align="justify">
 Open for <b><u>internship opportunities</u></b> in <b><u>Q1-Q2 2027</u></b>, and <b><u>full-time opportunities</u></b> from <b><u>July 2027</u></b> onward. Feel free to <a href="https://brianricardo.dev/#contact">reach out</a> on any platform, I'll get back to you whenever I can.
 </p>
 
-<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="2" width="1" alt=""/>
+<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="1" width="1" alt=""/>
 
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=128&color=0:006B3C,50:1a1b27,100:0d1117&section=footer" />
