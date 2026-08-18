@@ -100,7 +100,7 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
   </tr>
 </table>
 
-<div style="height:15px"></div>
+<div style="height:25px"></div>
 
 <p align="justify">
 Open for <b><u>internship opportunities</u></b> in <b><u>Q1-Q2 2027</u></b>, and <b><u>full-time opportunities</u></b> from <b><u>July 2027</u></b> onward. Feel free to <a href="https://brianricardo.dev/#contact">reach out</a> on any platform, I'll get back to you whenever I can.
