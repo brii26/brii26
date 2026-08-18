@@ -69,7 +69,7 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
 <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white" alt="macOS" width="48" height="53" style="object-fit:contain"/>
 -->
 
-<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="11" width="1" alt=""/>
+<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="8" width="1" alt=""/>
 
 ## Experience
 
@@ -100,7 +100,7 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="8" width="1" alt=""/>
+<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="6" width="1" alt=""/>
 
 <p align="justify">
 Open for <b><u>internship opportunities</u></b> in <b><u>Q1-Q2 2027</u></b>, and <b><u>full-time opportunities</u></b> from <b><u>July 2027</u></b> onward. Feel free to <a href="https://brianricardo.dev/#contact">reach out</a> on any platform, I'll get back to you whenever I can.
