@@ -14,7 +14,7 @@
 
 <br>
 
-### About
+## About
 
 <p align="justify">
 Software Engineer with <b>full-stack internship experience</b> developing software for <b>financial institutions</b>, passionate about building <b>scalable applications</b> and <b>distributed systems</b> across the stack.
@@ -73,7 +73,7 @@ Software Engineer with <b>full-stack internship experience</b> developing softwa
 
 <br>
 
-### Experience
+## Experience
 
 <table align="center">
   <tr>
