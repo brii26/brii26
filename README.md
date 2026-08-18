@@ -11,6 +11,7 @@
   <a href="mailto:brianricardotamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/brianricardo26/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 ## About
 
 <p align="justify">
@@ -65,6 +66,7 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
 <img src="https://img.shields.io/badge/-0078D4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMy40NDlMOS43NSAyLjF2OS40NTFIMG0xMC45NDktOS42MDJMMjQgMHYxMS40SDEwLjk0OU0wIDEyLjZoOS43NXY5LjQ1MUwwIDIwLjY5OU0xMC45NDkgMTIuNkgyNFYyNGwtMTIuOS0xLjgwMSIvPjwvc3ZnPg==&logoColor=white" alt="Windows" width="48" height="53" style="object-fit:contain"/>
 <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white" alt="macOS" width="48" height="53" style="object-fit:contain"/>
 -->
+
 ## Experience
 
 <table align="center">
@@ -93,9 +95,11 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
     <td>Jul 2026 – Present</td>
   </tr>
 </table>
+
 <p align="justify">
 Open for <b><u>internship opportunities</u></b> in <b><u>Q1-Q2 2027</u></b>, and <b><u>full-time opportunities</u></b> from <b><u>July 2027</u></b> onward. Feel free to <a href="https://brianricardo.dev/#contact">reach out</a> on any platform, I'll get back to you whenever I can.
 </p>
+
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=128&color=0:006B3C,50:1a1b27,100:0d1117&section=footer" />
 </div>
