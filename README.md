@@ -69,7 +69,7 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
 <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white" alt="macOS" width="48" height="53" style="object-fit:contain"/>
 -->
 
-<div style="height:11px"></div>
+<div style="height:15px"></div>
 
 ## Experience
 
