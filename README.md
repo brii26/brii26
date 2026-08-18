@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/brianricardo26/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="1" width="1" alt=""/>
+<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="0" width="1" alt=""/>
 
 ## About
 
@@ -69,7 +69,7 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
 <img src="https://img.shields.io/badge/-000000?style=flat&logo=apple&logoColor=white" alt="macOS" width="48" height="53" style="object-fit:contain"/>
 -->
 
-<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="4" width="1" alt=""/>
+<img src="https://raw.githubusercontent.com/brii26/brii26/main/.github/spacer.png" height="2" width="1" alt=""/>
 
 ## Experience
 
