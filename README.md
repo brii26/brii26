@@ -83,12 +83,6 @@ I'm a <b>final year</b> Computer Science student at <b>Bandung Institute of Tech
     <td>Starting Oct 2026</td>
   </tr>
   <tr>
-    <td>🟢 AI Automation Engineer</td>
-    <td>Contract</td>
-    <td><a href="https://mrscraper.com" target="_blank">MrScraper</a></td>
-    <td>Aug 2026 – Present</td>
-  </tr>
-  <tr>
     <td>🟢 Software Engineer</td>
     <td>Internship</td>
     <td><a href="https://www.bfi.co.id" target="_blank">BFI Finance</a></td>
