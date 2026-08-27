@@ -18,27 +18,6 @@
 I'm a final year <b>Computer Science</b> student at <b>ITB (Bandung Institute of Technology)</b> working as a Software Engineer with <b>full-stack internship experience</b> building software for <b>financial institutions</b>. I gravitate toward <b>challenging problems</b> that demand <b>deep engineering knowledge</b>. I like weighing <b>engineering tradeoffs</b>, <b>optimizing production systems</b>, and learning the tech behind them along the way.
 </p>
 
-<!-- ====================== TECH STACK ====================== -->
-## Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="48" height="48" />
-
-**Backend**
-
-<img src="./assets/tokio.svg" alt="Tokio" title="Tokio" width="48" height="48" />&nbsp;&nbsp;<img src="./assets/gin.svg" alt="Gin" title="Gin" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" title="Spring Boot" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" title="Express" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" title="NestJS" width="48" height="48" />
-
-**Data & Infra**
-
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" title="Nginx" width="48" height="48" />
-
----
-
 <!-- ====================== EXPERIENCE ====================== -->
 ## Experience
 
@@ -66,6 +45,29 @@ I'm a final year <b>Computer Science</b> student at <b>ITB (Bandung Institute of
 <br />
 
 > Open for <b><u>internship opportunities</u></b> in <b><u>Q1-Q2 2027</u></b>, and <b><u>full-time opportunities</u></b> from <b><u>July 2027</u></b> onward. Feel free to <a href="https://brianricardo.dev/#contact" target="_blank">reach out</a> on any platform, I'll get back to you whenever I can.
+
+---
+
+<!-- ====================== TECH STACK ====================== -->
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="48" height="48" />
+
+**Backend**
+
+<img src="./assets/tokio.svg" alt="Tokio" title="Tokio" width="48" height="48" />&nbsp;&nbsp;<img src="./assets/gin.svg" alt="Gin" title="Gin" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" title="Spring Boot" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" title="Express" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" title="NestJS" width="48" height="48" />
+
+**Data & Infra**
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" title="Nginx" width="48" height="48" />
+
+---
 
 <!-- ======================== CONNECT ======================== -->
 ## Connect
