@@ -60,7 +60,7 @@ I'm a final year <b>Computer Science</b> student at <b>ITB (Bandung Institute of
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48" height="48" />
 
 **Frontend**
 
@@ -73,6 +73,8 @@ I'm a final year <b>Computer Science</b> student at <b>ITB (Bandung Institute of
 **Data & Infra**
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" title="Nginx" width="48" height="48" />
+
+> I'm <b>language agnostic</b> at heart. What's listed here is simply what I'm <b>most comfortable</b> with, not a limit on what I'm willing to pick up.
 
 ---
 
