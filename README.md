@@ -15,7 +15,7 @@
 ## About
 
 <p align="justify">
-I'm a final year <b>Computer Science</b> student at <b>ITB (Bandung Institute of Technology)</b> working as a Software Engineer with <b>full-stack internship experience</b> building software for <b>financial institutions</b>. I gravitate toward <b>challenging problems</b> that demand <b>deep engineering knowledge</b>. I like weighing <b>engineering tradeoffs</b>, <b>optimizing production systems</b>, and learning the tech behind them along the way.
+I'm a final year <b>Computer Science</b> student at <b>ITB (Bandung Institute of Technology)</b> with experience building software for <b>financial institutions</b>. I gravitate toward <b>challenging problems</b> that demand <b>deep engineering knowledge</b>. I like weighing <b>engineering tradeoffs</b>, <b>optimizing production systems</b>, and learning the tech behind them along the way.
 </p>
 
 <!-- ====================== EXPERIENCE ====================== -->
@@ -23,28 +23,21 @@ I'm a final year <b>Computer Science</b> student at <b>ITB (Bandung Institute of
 
 <table align="center">
   <tr>
-    <th>💻</th>
     <th>Role</th>
     <th>Company</th>
     <th>Duration</th>
   </tr>
   <tr>
-    <td></td>
     <td>Backend Engineer Intern</td>
     <td><a href="https://sekuritas.miraeasset.co.id/who-we-are" target="_blank">Mirae Asset Sekuritas</a></td>
-    <td>Starting Oct 2026</td>
+    <td>Oct 2026 – Present</td>
   </tr>
   <tr>
-    <td>🟢</td>
     <td>Software Engineer Intern</td>
     <td><a href="https://www.bfi.co.id" target="_blank">BFI Finance</a></td>
-    <td>Jul 2026 – Present</td>
+    <td>Jul 2026 – Sep 2026</td>
   </tr>
 </table>
-
-<br />
-
-> Open for <b><u>internship opportunities</u></b> in <b><u>Q1-Q2 2027</u></b>, and <b><u>full-time opportunities</u></b> from <b><u>July 2027</u></b> onward. Feel free to <a href="https://brianricardo.dev/#contact" target="_blank">reach out</a> on any platform, I'll get back to you whenever I can.
 
 ---
 
@@ -53,7 +46,7 @@ I'm a final year <b>Computer Science</b> student at <b>ITB (Bandung Institute of
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48" height="48" />
 
 **Frontend**
 
