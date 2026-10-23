@@ -1,4 +1,4 @@
-<!-- ======================== HEADER ======================== -->
+<!-- ======================== HEADER ========================= -->
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1526,25:052522,81:006B3C,100:006B3C&height=200&section=header&text=Brian%20Ricardo%20Tamin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20ITB%20%7C%20Software%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" />
